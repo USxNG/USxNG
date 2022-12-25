@@ -1,12 +1,17 @@
-Header
+![Header](https://github.com/USxNG/USxNG/blob/main/assets/USxNG.gif)
 
 About me
 
-Latest news
+Lastest news
 
 Language and Tools
 
 Follow Me
+
+
+
+
+
 
 <!--
 **USxNG/USxNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
