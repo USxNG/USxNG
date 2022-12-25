@@ -1,5 +1,6 @@
 
-![USxNGnext](https://user-images.githubusercontent.com/121380585/209474411-de36e778-2d2f-460d-a8f7-71b37f0e26db.gif)
+
+![USxNGnext](https://user-images.githubusercontent.com/121380585/209474665-d0ed978a-6a7b-454b-8ab6-f2d8e69fb0d4.gif)
 
 
 About me
